@@ -34,3 +34,4 @@ sess.run(tf.global_variables_initializer())
 
 #执行  tensorboard  --logdir logs
 #将地址复制到谷歌浏览器打开
+#http://localhost:6006
